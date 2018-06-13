@@ -1,3 +1,5 @@
+require("mindflow")
+
 MindFlow.node({
 	about: {
 		name: "input",
